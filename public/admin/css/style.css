@@ -1,0 +1,33 @@
+/*Admin Login*/
+.login-body{
+	background-image: url('../images/bg/bg2.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.login-card
+{
+	margin-left: 30%;
+	margin-top: 8%;
+	opacity: 0.7;
+	background-color: #2F4F4F;
+}
+.login-icon
+{
+	max-width: 100%;
+	max-height: 100%;
+	height: 150px;
+	margin-top: 3%;
+}
+.logincard{
+	background-color: #ADD8E6;
+}
+.card-icon{
+	max-width: 100%;
+	max-height: 100%;
+	height: 100px;
+}
+.cscroll{
+  height: 300px;
+  width: auto;
+  overflow-y: scroll;
+}
